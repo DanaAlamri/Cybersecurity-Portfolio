@@ -67,7 +67,7 @@ Increased training cost due to adversarial learning
 
 Relies on public EEG datasets
 
-🛠️ Technologies & Tools
+## 🛠️ Technologies & Tools
 
 Python, PyTorch
 
