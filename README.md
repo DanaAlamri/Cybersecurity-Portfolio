@@ -64,18 +64,31 @@ Documentation related to vulnerability handling:
 
 ---
 
-### 🔹 Graduation Project (Ongoing)
-**Robust and Privacy-Aware EEG Signal Classification for Brain–Computer Interfaces (BCI)**
+## 🎓 Graduation Project — Ongoing
 
-A research-driven project focused on building a secure and privacy-aware machine learning pipeline for sensitive biometric data.
+###  Robust & Privacy-Aware EEG Signal Classification for Brain–Computer Interfaces (BCI)
 
-Topics include:
-- Threat modeling for EEG-based systems
-- Privacy risks and mitigation strategies
-- Security considerations in ML pipelines
+A **research-driven cybersecurity & machine learning project** focused on securing **EEG-based Brain–Computer Interfaces** against adversarial threats while preserving sensitive brain data privacy.
 
-📁 `graduation-project/`  
-🚧 *Ongoing – implementation and code will be added progressively.*
+### Project Focus
+- 🔐 **Security & Threat Modeling** for EEG-based BCI systems  
+- 🛡️ **Adversarial robustness** in deep learning pipelines  
+- 🧠 **Privacy preservation** for sensitive biometric (EEG) data  
+- Secure ML design for safety-critical applications  
+
+###  Technical Highlights
+- Euclidean Alignment (EA) for EEG signal normalization  
+- Alignment-Based Adversarial Training (ABAT)  
+- Differential Privacy (DP-SGD)  
+- EEGNet-based deep learning architecture  
+
+📂 **Project Repository:**  
+➡️ `graduation-project/`
+
+🚧 *Ongoing — implementation, experiments, and documentation are being added progressively.*
+
+---
+
 
 
 ---
