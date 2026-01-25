@@ -1,4 +1,4 @@
-# Cybersecurity-Portfolio
+# 🔘 Cybersecurity-Portfolio
 
 Cybersecurity learning journey and Portfolio
 
@@ -8,7 +8,7 @@ The goal of this portfolio is to demonstrate how I approach security problems, a
 
 ---
 
-## About Me
+## 🔘 About Me
 I'm Dana Alamri  , Cybersecurity student and Co-op trainee with a strong interest in defensive security and security operations.  
 I focus on building a solid understanding of how security controls, detection logic, and risk-based decisions work in real environments.
 
@@ -16,7 +16,7 @@ My background combines academic study with hands-on labs, vulnerability analysis
 
 ---
 
-## Areas of Interest
+##  🔴Areas of Interest
 - Security Operations Center (SOC)
 - Incident Response & Threat Investigation
 - Vulnerability Management & Risk Analysis
@@ -26,7 +26,7 @@ My background combines academic study with hands-on labs, vulnerability analysis
 
 ---
 
-## Currently Working On
+## 📤 Currently Working On
 - Documenting SOC investigation workflows and case studies
 - Expanding vulnerability management analysis and remediation strategies
 - Building foundations in detection engineering 
@@ -80,5 +80,17 @@ Topics include:
 
 ---
 
-## Status
-This repository is actively evolving as I continue my cooperative training and academic work
+## 🔄 Status
+This repository is actively evolving as I continue my cooperative training and academic work 
+
+## ⚠️ Disclaimer
+
+All investigations are conducted in **simulated SOC environments** provided by training platforms for learning and skill development purposes.
+
+---
+
+## 🤝 Let's Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/dana-alamri-605064215)    
+[![Email](https://img.shields.io/badge/Email-Contact%20Me-red?logo=gmail)](mailto:dnnon3@gmail.com)
+
