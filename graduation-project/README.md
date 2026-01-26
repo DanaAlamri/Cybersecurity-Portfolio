@@ -46,7 +46,7 @@ The proposed system consists of two main phases: training and classification.
 
 ### 🔹 Training Phase
 
-![Training Phase](diagrams/Training Phase.png)
+<img src="diagrams/Training Phase.png" width="800">
 
 **Figure:** Training phase illustrating EEG preprocessing, Euclidean Alignment,
 adversarial training (EABAT), and differential privacy enforcement.
