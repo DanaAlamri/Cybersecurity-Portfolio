@@ -85,6 +85,7 @@ EEG classification system.
 <img src="diagrams/User classification Sequence.png" width="800">
 
 
+
 **Figure:** Sequence of operations during real-time EEG classification.
 
 ## 🎯 Key Contributions
