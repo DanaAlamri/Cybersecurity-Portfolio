@@ -37,6 +37,9 @@ BCI Competition IV-2a
 
 Standard preprocessing, epoching, and filtering applied
 
+=> http://bnci-horizon-2020.eu/database/data-sets
+
+
 ## 🏗️ System Pipeline
 
 EEG preprocessing (filtering, epoching, artifact handling)
