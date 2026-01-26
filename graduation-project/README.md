@@ -46,13 +46,13 @@ The proposed system consists of two main phases: training and classification.
 
 ### 🔹 Training Phase
 
-![Training Phase](diagrams/training_phase.png)
+![Training Phase](diagrams/Training Phase.png)
 
 **Figure:** Training phase illustrating EEG preprocessing, Euclidean Alignment,
 adversarial training (EABAT), and differential privacy enforcement.
 
 ### 🔹 Classification Phase
-![Classification Phase](diagrams/classification_phase.png)
+![Classification Phase](diagrams/Classification Phase.png)
 
 **Figure:** Classification phase showing robust inference on aligned EEG data
 without privacy noise injection.
@@ -60,7 +60,8 @@ without privacy noise injection.
 
 ### 👤 Use Case Diagram
 
-![Use Case Diagram](diagrams/use_case.png)
+
+![Use Case](diagrams/Use case.png)
 
 **Figure:** Use case diagram illustrating interactions between users and the
 EEG classification system.
@@ -69,17 +70,17 @@ EEG classification system.
 ### 🔁 Sequence Diagrams
 
 ### 👤 Admin Training Sequence
-![Admin Training Sequence](diagrams/admin_training_sequence.png)
+![Admin Training Sequence](diagrams/Admin Training Sequence.png)
 
 **Figure:** Sequence of operations during the training phase managed by the administrator.
 
 
+
 #### User – Classification Sequence
-![User Classification Sequence](diagrams/user_classification_sequence.png)
+
+![User Classification Sequence](diagrams/User classification Sequence.png)
 
 **Figure:** Sequence of operations during real-time EEG classification.
-
-
 
 ## 🎯 Key Contributions
 
