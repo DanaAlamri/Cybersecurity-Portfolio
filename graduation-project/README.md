@@ -82,9 +82,7 @@ EEG classification system.
 
 #### User – Classification Sequence
 
-<img src="diagrams/User classification Sequence.png" width="800">
-
-
+<<img src="diagrams/user_classification_sequence.png" width="800">
 
 **Figure:** Sequence of operations during real-time EEG classification.
 
