@@ -8,29 +8,45 @@ The goal of this portfolio is to demonstrate how I approach security problems, a
 
 ---
 
+
 ## 🔘 About Me
-I'm Dana Alamri  , Cybersecurity student and Co-op trainee with a strong interest in defensive security and security operations.  
-I focus on building a solid understanding of how security controls, detection logic, and risk-based decisions work in real environments.
 
-My background combines academic study with hands-on labs, vulnerability analysis, and SOC-style investigations, with an emphasis on structured thinking and continuous learning.
+I'm Dana Alamri Cybersecurity student and Co-op trainee with a strong interest in defensive security, risk-based decision making, and secure system design.
+
+I focus on building a solid understanding of how security controls, detection mechanisms, and risk management practices operate in real environments, and how technical findings translate into business and compliance decisions.
+
+My background combines academic study with hands-on labs, vulnerability analysis, and security investigations, with an emphasis on structured thinking, documentation, and aligning security outcomes with organizational risk.
+
+---
+
+## 🔴 Areas of Interest
+
+Defensive Security & Blue Teaming
+
+Incident Response & Threat Investigation
+
+Vulnerability Management & Risk Analysis
+
+Security Controls & Control Effectiveness
+
+Detection Engineering Fundamentals
+
+Governance, Risk, and Compliance (GRC) Foundations
+
+Secure and Privacy-Aware Systems
 
 ---
 
-##  🔴Areas of Interest
-- Security Operations Center (SOC)
-- Incident Response & Threat Investigation
-- Vulnerability Management & Risk Analysis
-- Detection Engineering Fundamentals
-- Secure and Privacy-Aware Systems
-- Cybersecurity Fundamentals (Networking, OS, Logging)
-
----
 
 ## 📤 Currently Working On
-- Documenting SOC investigation workflows and case studies
-- Expanding vulnerability management analysis and remediation strategies
-- Building foundations in detection engineering 
-- Developing my graduation project with a focus on security and privacy considerations
+
+Documenting security workflows and investigation case studies
+
+Expanding vulnerability analysis with risk and remediation prioritization
+
+Building technical foundations that support future GRC and risk roles
+
+Developing my graduation project with a focus on security, privacy, and risk considerations
 
 ---
 
